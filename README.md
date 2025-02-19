@@ -45,7 +45,7 @@ RLUSD-MPT is divided into 3 main sections. On the first one, primarily inside th
 This project's smart-contract was deployed, and __verified__, using Sepolia's Testnet:
 
 
-  * [Sepolia](https://www.bitkub.com/) Testnet: [0x284dae20099c497b97cc1992f2c484922686cf53](https://sepolia.etherscan.io/address/0x284dae20099c497b97cc1992f2c484922686cf53#code)
+  * Sepolia Testnet: [0x284dae20099c497b97cc1992f2c484922686cf53](https://sepolia.etherscan.io/address/0x284dae20099c497b97cc1992f2c484922686cf53#code)
 
 
 ## Presentation
