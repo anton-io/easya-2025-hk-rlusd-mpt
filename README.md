@@ -18,6 +18,8 @@ In this project, we:
    - Maximized Returns: Focuses on growth potential.
    - Optimal Sharpe Ratio: Balances risk and reward effectively. 
 3. __Store Allocations On-Chain__: Publish optimized allocations to a smart contract deployed on multiple blockchains, ensuring transparency and global accessibility.
+4.__Combine RLUSD Smart Contract__ to transparently benefit from optimized portfolios. 
+
 
 ## How it works
 
